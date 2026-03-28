@@ -1,1 +1,1 @@
-# M=mini-RAG course notes and implementations.
+# mini-RAG course notes and implementations.

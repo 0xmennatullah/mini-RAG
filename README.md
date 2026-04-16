@@ -1,1 +1,3 @@
-# mini-RAG course notes and implementations.
+# mini-RAG
+- coure code + enhancement
+- personal notes

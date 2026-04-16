@@ -212,6 +212,9 @@
   },
   "active": "d12cae4e46e8294c",
   "lastOpenFiles": [
+    "__pycache__/main.cpython-313.pyc",
+    "__pycache__",
+    "main.py",
     "assets",
     "requirements.txt",
     "requirements",

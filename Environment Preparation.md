@@ -17,7 +17,8 @@
 ### API config
 - can use postman t monitor all API access/tests; run collections instead of uvicorn/fastapi?
 - if i want anyone t access the app => --host 0.0.0.0 + can specify the port as well
-- for some reason, postman keeps crashing on fedora; so passing for now.
+- for some reason, postman keeps crashing on fedora; so passing for now => update: using resonance instead, better linux compatibility.
+- 
 
 ### routes
 - default route: @app.get("/") => health ckeck, tests.
